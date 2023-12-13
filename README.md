@@ -41,9 +41,7 @@
 
 For any queries or assistance, please feel free to reach out to us.
 
-**Phone Number:** +91 6301 693 875
-
-** Tech Channel link :** https://whatsapp.com/channel/0029VaDQD9XInlqMsnOl7r2k 
+**WhatsApp:** [Join our WhatsApp Channel]([https://wa.me/your_whatsapp_number](https://whatsapp.com/channel/0029VaDQD9XInlqMsnOl7r2k ))
 
 **Email:** [jstechtraining@gmail.com](mailto:jstechtraining@gmail.com)
 
