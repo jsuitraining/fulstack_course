@@ -36,7 +36,5 @@
    - Watch live demonstrations of CI/CD pipeline setups, fullstack integrations, and more.
    - Gain practical insights into the development process through real-world examples.
 
-⏰ **Interactive Progress Tracking:**
-   - Track your progress in real-time through live assessments and interactive exercises.
-   - Stay on top of your learning journey with immediate feedback and guidance.
+
 
